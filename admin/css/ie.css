@@ -1,0 +1,30 @@
+/*-----Position the dropdown-----*/
+
+.drop {
+	top:98px;
+}
+/*-----Signin link-----*/
+
+.signin {
+height:18px;
+display:block;
+}
+
+/*-----Signin clicked state-----*/
+
+.signinclick {
+height:18px;
+display:block;
+}
+
+/*-----Dropdown form element-----*/
+
+form {
+ margin:0;
+}
+
+/*-----Tooltips-----*/
+
+.tooltip span {
+background:#fff;
+}
